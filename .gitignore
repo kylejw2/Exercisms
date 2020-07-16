@@ -1,0 +1,7 @@
+*.exercism*
+*node_modules*
+*.eslintrc*
+*.npmrc*
+*babel.config.js*
+*package-lock.json*
+.DS_Store
